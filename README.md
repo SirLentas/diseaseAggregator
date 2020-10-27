@@ -1,22 +1,3 @@
-Tα αρχεια που περιλαμβανονται ειναι τα εξης:
-============================================
-> error_reports (dir)
-> logfiles (dir)
-> src (dir)
-    > main.c
-    > worker.c
-> structs (dir)
-    > country_list.c
-    > country_list.h
-    > file_list.c
-    > file_list.h
-    > records.c
-    > records.c
-    > summary_list.c
-    > summary_list.h
-> makefile
-
-
 Δημιουργία εκτελέσιμου:
 =======================
 Η δημιουργία του εκτελέσιμου γίνεται με την κληση της εντολής make η οποία δημιουργεί το diseaseAggregator ,η διαγραφή του οποίου γίνεται με την make clean.
