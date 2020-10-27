@@ -12,6 +12,8 @@
 
 Τα μέλη της εντολής αυτής μπορούν να δωθούν με οποιαδήποτε σειρά αρκεί να βρίσκονται μετά το αντίστοιχο flag .
 
+To input μπορεί να δημιουργηθεί με την create_infiles.sh
+Με ορίσματα τα diseases_file, countries_file, input_folder_name. num_of_dirs, r_per_file με αυτη τη σειρα.
 
 Λειτουργία:
 ===========
